@@ -7,7 +7,7 @@ import {Component, OnInit} from '@angular/core';
   styles: [`
     p {
       padding: 20px;
-      background-color: palevioletred;
+      background-color: mistyrose;
       border: 1px solid red;
     }
   `]
